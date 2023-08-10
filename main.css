@@ -3,7 +3,7 @@
 }
 body {
     margin: 0;
-    font-family: cursive;
+    font-family: monospace;
     background-color: rgba(3, 56, 56, 0.541);
 }
 .container {
