@@ -27,7 +27,7 @@ function render(arr) {
 render(my_Array2);
 
 const record = new webkitSpeechRecognition();
-record.lang = `en-GB`
+record.lang = `en-GB`;
 record.onstart = function() {
     console.log(`gapiring...`);
     elBtn.classList.add(`recording`);
